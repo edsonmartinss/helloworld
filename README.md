@@ -1,5 +1,5 @@
 # helloworld
 
-Esse é o meu primeiro código no GitHub.
+Meu primeiro projeto JS
 
 by Edson Martins
